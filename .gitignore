@@ -1,0 +1,10 @@
+Log/*
+GameServer/.vs/*
+GameServer/Debug/*
+GameServer/GameServer.sln
+GameServer/GameServer.VC.db
+GameServer/GameServer/GameServer.vcxproj
+GameServer/GameServer/GameServer.vcxproj.filters
+GameServer/GameServer/GameServer.vcxproj.user
+GameServer/GameServer/Debug
+
